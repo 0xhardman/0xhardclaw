@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm 0xhardclaw 👋</h1>
 
 <p align="center">
-  <em>万物皆可 Claude Code 🚀 — 用教程让每个人都能驾驭 AI 编程</em>
+  <em>万物皆可 CC 🚀 — 用教程让每个人都能驾驭 AI 编程</em>
 </p>
 
 ---
